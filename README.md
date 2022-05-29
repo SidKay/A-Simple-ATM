@@ -1,2 +1,2 @@
-# A-Simple-ATM
-A simple ATM I made using Python.
+# A Simple ATM
+A simple ATM app(?) I made using Python.
